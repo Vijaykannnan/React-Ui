@@ -45,8 +45,11 @@ main {
 }
 .heading {
   font-size: 45px;
-  text-shadow: 5px 3px 3px rgb(0, 0, 0);
+  text-shadow: 5px 3px 3px rgb(13, 13, 13);
   color: aliceblue;
+  /* color: rgb(144, 246, 10); */
+  /* color: #6f1dc2; */
+  font-weight: 800;
 }
 .content-first {
   position: absolute;
@@ -65,9 +68,10 @@ main {
   display: none;
 }
 .second-heading {
-  font-size: 30px;
-  font-weight: 500;
-  color: #000000;
+  font-size: 25px;
+  font-weight: 600;
+  /* color: rgb(48, 8, 8); */
+  color: rgba(28, 33, 28, 0.995);
 }
 .site-content {
   padding: 8px 10px;
@@ -102,7 +106,7 @@ main {
 }
 .card {
   width: 283px;
-  height: 370px;
+  height: 400px;
   /* border-radius: 2px 20px 2px 20px; */
   cursor: pointer;
   text-align: center;
@@ -213,6 +217,11 @@ main {
     height: 90vh;
   }
 }
+@media all and (max-width: 380px) {
+  .second-heading {
+    font-size: 20px;
+  }
+}
 @media all and (max-width: 430px) {
   .banner {
     display: none;
@@ -220,6 +229,9 @@ main {
   .img-bubble-left,
   .img-bubble-right {
     display: none;
+  }
+  .card {
+    height: 370px;
   }
 }
 @media all and (min-width: 370px) and (max-width: 430px) {

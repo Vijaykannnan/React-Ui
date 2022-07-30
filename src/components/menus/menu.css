@@ -6,7 +6,7 @@
   width: 100%;
   height: 100vh;
   background: rgb(0, 37, 81);
-  transition: all 1.3s ease;
+  transition: all 1s ease;
   position: relative;
   z-index: 10;
 }

@@ -16,7 +16,7 @@ header {
   padding: 3%;
   display: flex;
   justify-content: space-around;
-  background: linear-gradient(to right, #6a82fb, #7f00ff);
+  background: linear-gradient(to right, #6a82fb, #6f1dc2);
   /* background: rgb(209, 102, 102); */
 }
 .logo {

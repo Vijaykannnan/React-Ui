@@ -2,6 +2,7 @@ import React from "react";
 import "./content.css";
 import { useSelector } from "react-redux";
 import Img from "./cs.png";
+
 let Content = () => {
   let Passing_data = (item) => {
     if (item === "clicked") {
@@ -29,7 +30,7 @@ let Content = () => {
           <div className="col-md-6">
             <h1 className="heading">The Beautiful design System</h1>
             <span className="second-heading">
-              Completed With&nbsp;Examples!
+              Completed With&nbsp;Examples✌️
             </span>
 
             <span className="content-first bubble"></span>
