@@ -1,0 +1,9 @@
+.contactHelp {
+    background: rgb(214, 210, 210);
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
