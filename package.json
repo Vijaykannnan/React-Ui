@@ -1,8 +1,8 @@
 {
   "name": "ui-react",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://Vijaykannnan.github.io",
+  "private": false,
+  "homepage": "https://Vijaykannnan.github.io/React-Ui",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
