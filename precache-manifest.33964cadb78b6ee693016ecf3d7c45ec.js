@@ -72,16 +72,16 @@ self.__precacheManifest = [
     "url": "/static/media/bg5.c391c691.webp"
   },
   {
-    "revision": "97beee1255ef91683dd912e64232fd1e",
-    "url": "/static/media/bg7.97beee12.webp"
-  },
-  {
     "revision": "a55631d642d237f4e4d0a17f06175454",
     "url": "/static/media/bg2.a55631d6.webp"
   },
   {
     "revision": "8e5ae5884f002597fbd34217a37711ee",
     "url": "/static/media/web2-rm.8e5ae588.webp"
+  },
+  {
+    "revision": "97beee1255ef91683dd912e64232fd1e",
+    "url": "/static/media/bg7.97beee12.webp"
   },
   {
     "revision": "b929dde881d615c81b5eac0f2786acf8",
