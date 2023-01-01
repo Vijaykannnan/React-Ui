@@ -1,5 +1,5 @@
 import React from "react"
-import ReactDom from 'react-dom'
+import ReactDOM from 'react-dom'
 import { BrowserRouter } from 'react-router-dom'
 import './index.css'
 
@@ -9,3 +9,6 @@ ReactDOM.render((
         <App />
     </BrowserRouter>
 ), document.querySelector("#root"))
+
+
+//basename ethuku add pannirukanah gitub la uplode pannumpotu blank ah varuthu so stackoverflow la refer pannann so anga ippdi than Browesrouter ku basename use panniruthanah

@@ -268,3 +268,13 @@
     }
 
 }
+
+/* //for height */
+
+@media all and (min-height:1100px) {
+    .main-content {
+        height: 50vh !important;
+        display: flex;
+        align-items: center;
+    }
+}

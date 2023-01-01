@@ -212,11 +212,9 @@ h4 {
 
 }
 
-@media all and (max-width:1300px) {
-    /* .tech-content-img img {
+@media all and (min-height:1100px) {
 
-        height: 15rem;
-
-    } */
-
+    .tech-grp {
+        height: 40vh;
+    }
 }
